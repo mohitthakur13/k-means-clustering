@@ -1,4 +1,4 @@
-### k-means clustering algorithm
+## k-means clustering algorithm
 A Simple implementation of k-means clustering algorithm.
 
 An instance is defined by an array of vectors (or points), representative points of clusters and the number of clusters of the clusters (also called centroids).
