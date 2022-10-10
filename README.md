@@ -1,3 +1,5 @@
+|Numpy|
+
 ## k-means clustering algorithm
 A Simple implementation of k-means clustering algorithm.
 
